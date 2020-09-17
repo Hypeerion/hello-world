@@ -6,3 +6,5 @@ Cliff here.  I've just begun my coding journey after years of management, sales,
  I'm looking forward to putting my data analytics skills, honed from years of practice in
  the advertising industry, with the new quantitative skills I've aquired through more formal
  data science and data analytics training.
+
+---Testing new branch creation from git bash.---
